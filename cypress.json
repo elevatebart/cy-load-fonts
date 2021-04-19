@@ -1,0 +1,8 @@
+{
+  "viewportWidth": 400,
+  "viewportHeight": 400,
+  "video": false,
+  "testFiles": "**/*spec.{js,jsx,ts,tsx}",
+  "componentFolder": "src",
+  "fixturesFolder": false
+}
